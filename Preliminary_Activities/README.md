@@ -29,7 +29,7 @@ https://github.com/Astronomia-Ecuador/ISYA2025/blob/main/Preliminary_Activities/
 
 3. Clic on "Open in Google Colab".
 
-4. Run all the cells in this notebook. You can place the image of the worked example (which you can find here: https://github.com/ciencialatitud0/EPIC_4/blob/main/Preliminary_Activities/images/Cotopaxi_volcano.jpeg) or any other image into your "Colab Notebooks" folder in Google Drive.
+4. Run all the cells in this notebook. You can place the image of the worked example (which you can find here: https://github.com/Astronomia-Ecuador/ISYA2025/blob/main/Preliminary_Activities/images/Cotopaxi_volcano.jpeg) or any other image into your "Colab Notebooks" folder in Google Drive.
 
 5. If you see a plot of sin(x) vs. x and the image of the Cotopaxi volcano, your local Google Colab works.
 
