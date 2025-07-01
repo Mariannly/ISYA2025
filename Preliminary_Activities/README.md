@@ -4,7 +4,7 @@ Please read carefully all the information given below.
 
 Tutorials in this School will mainly use python. All the code will be shared on github, so we recommend reading the basics on using GIT:
 
-https://github.com/ciencialatitud0/EPIC_4/blob/main/Preliminary_Activities/1_introgit.pdf
+https://github.com/Astronomia-Ecuador/ISYA2025/blob/main/Preliminary_Activities/1_introgit.pdf
 
 We will use python 3.x and jupyter notebooks (.ipynb) for most of the tutorials.
 
