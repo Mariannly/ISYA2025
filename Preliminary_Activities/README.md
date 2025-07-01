@@ -24,7 +24,8 @@ One option is to use Google Colab, for which you would need a Google account, wh
 
 1. Log into your Google account.
 
-2. Open this notebook: https://github.com/ciencialatitud0/EPIC_4/blob/main/Preliminary_Activities/2_notebook.ipynb
+2. Open this notebook:
+https://github.com/Astronomia-Ecuador/ISYA2025/blob/main/Preliminary_Activities/2_notebook.ipynb
 
 3. Clic on "Open in Google Colab".
 
