@@ -1,1 +1,1 @@
-# ISYA2025-repository
+# ISYA 2025 Repository
