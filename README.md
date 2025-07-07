@@ -8,3 +8,6 @@ The website of the school: www.isya2025-ecuador.com
 
 Astrophysics Data System (ADS) - a library of papares in astrophysics
 https://ui.adsabs.harvard.edu/ 
+
+Perplexity - AI tool for research, with the advantage that this tool gives you the references for the original sources
+https://www.perplexity.ai/ 
