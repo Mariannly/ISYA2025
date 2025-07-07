@@ -25,4 +25,6 @@ https://aladin.cds.unistra.fr/
 
 gnuastro - software library 
 https://www.gnu.org/savannah-checkouts/gnu/gnuastro/gnuastro.html
-Source-Extractor (image analysis tool): https://sextractor.readthedocs.io/en/latest/Introduction.html
+
+Source-Extractor - image analysis tool 
+https://sextractor.readthedocs.io/en/latest/Introduction.html
