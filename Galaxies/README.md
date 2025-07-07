@@ -12,6 +12,8 @@ An overview of galaxies in the nearby and distant universe, their constituents, 
 - Standard stellar population indicators
   
 - Dark matter in galaxies
+
+Presentation: https://github.com/Astronomia-Ecuador/ISYA2025/blob/main/Galaxies/Galaxies1.pdf
   
 #### Lecture 2) Scaling relations
 
