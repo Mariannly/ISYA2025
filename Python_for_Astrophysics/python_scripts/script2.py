@@ -15,7 +15,7 @@ age_of_universe_gyr = cosmo.age(redshift).to('Gyr').value
 
 # Create the plot
 plt.figure(figsize=(8, 6))
-plt.plot(redshift, age_of_universe_gyr, color='magenta', linestye = "--")
+plt.plot(redshift, age_of_universe_gyr, color='magenta', linestyle = "--")
 plt.xlabel('Redshift (z)')
 plt.ylabel('Age of Universe (Gyr)')
 plt.title('Age of Universe vs. Redshift')
