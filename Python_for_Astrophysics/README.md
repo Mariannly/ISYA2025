@@ -15,4 +15,4 @@ Tutorial 2: https://github.com/Astronomia-Ecuador/ISYA2025/blob/main/Python_for_
 
 Lecture 3: https://github.com/Astronomia-Ecuador/ISYA2025/blob/main/Python_for_Astrophysics/3_lecture_py4astro.pdf
 
-Tutorial 3: https://github.com/wbandabarragan/ISYA2025/blob/main/Python_for_Astrophysics/3_tutorial_py4astro.ipynb
+Tutorial 3: https://github.com/Astronomia-Ecuador/ISYA2025/blob/main/Python_for_Astrophysics/3_tutorial_py4astro.ipynb
