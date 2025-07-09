@@ -16,8 +16,10 @@ Integral field spectroscopy has revolutionized our ability to study galaxies by 
 ### Daniela Galárraga-Espinosa (Kavli IPMU)
 TBD
 
-## TBD
+## Stellar models with like-Wyman IIa complexity factor
 ### David Andrade (Universidad Yachay Tech)
+
+The goal of this work is to build a new family of stellar interior solutions in the anisotropic regime of pressure using the framework of gravitational decoupling via minimal geometric deformation. For such purpose, we use a generalization of the complexity factor of the well-known Wyman IIa (n = 1) interior solution in order to close the Einstein’s Field Equations, as well we use the Wyman IIa, Tolman IV, and Heintzmann IIa and Durgapal IV models as seeds solutions. These models fulfill the fundamental physical acceptability conditions for the compactness factor of the system 4U 1820-30. Stability against convection and against collapse are also studied.
 
 ## TBD
 ### José Manuel Ramírez (Universidad Yachay Tech)
