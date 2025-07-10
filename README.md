@@ -89,3 +89,7 @@ https://almascience.nrao.edu/aq/
 Encyclopaedia of exoplanetary systems (catalogue data of detected exoplanets)
 https://exoplanet.eu/home/
 
+# Citizen Science projects
+The zooniverse (there are many astrophysics themed projects and also a many other topics)
+https://www.zooniverse.org/projects 
+
