@@ -55,7 +55,7 @@ https://outerspace.stsci.edu/display/PANSTARRS/
 PanSTARRS image cutout service 
 http://ps1images.stsci.edu/cgi-bin/ps1cutouts 
 
-Legacy Survey (Southern Sky) is one of the best options
+The DESI Legacy Survey (Southern sky)
 https://www.legacysurvey.org/viewer#NGC%201325 
 
 Hubble Legacy Archive 
