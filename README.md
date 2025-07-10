@@ -12,6 +12,9 @@ https://ui.adsabs.harvard.edu/
 Perplexity - AI tool for research, with the advantage that this tool gives you the references for the original sources
 https://www.perplexity.ai/ 
 
+Wikisky - Mulity-wavelength view of the sky
+https://wikisky.org 
+
 ## Software resources
 
 SAO DS9 fits viewer (available for all operating systems)
@@ -28,3 +31,34 @@ https://www.gnu.org/savannah-checkouts/gnu/gnuastro/gnuastro.html
 
 Source-Extractor - image analysis tool 
 https://sextractor.readthedocs.io/en/latest/Introduction.html
+
+## Astronomical data
+### Multi wavelength data
+
+Skyview: https://skyview.gsfc.nasa.gov/current/cgi/titlepage.pl  
+
+Strasbourg astronomical Data Center (CDS) - Catalogues and Images
+https://cds.unistra.fr 
+
+### Optical data
+
+PanSTARRS survey (Northern sky)
+https://outerspace.stsci.edu/display/PANSTARRS/ 
+
+PanSTARRS image cutout service 
+http://ps1images.stsci.edu/cgi-bin/ps1cutouts 
+
+Legacy Survey (Southern Sky) is one of the best options
+https://www.legacysurvey.org/viewer#NGC%201325 
+
+
+### neutral Hydrogen data
+
+The GASS survey (HI data in the Milky Way)
+https://www.astro.uni-bonn.de/hisurvey/gass/  
+
+Halogas survey (extragalactic) 
+https://www.astron.nl/halogas/data.php  
+
+VLA Imaging of Virgo in Atomic gas (VIVA, HI data for Virgo cluster galaxies)
+http://www.astro.yale.edu/viva/ 
