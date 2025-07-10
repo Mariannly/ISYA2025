@@ -79,7 +79,13 @@ http://www.astro.yale.edu/viva/
 The THINGS survey (nearby galaxies)
 https://www2.mpia-hd.mpg.de/THINGS/Overview.html
 
-### Millimeter data:
+### Millimeter data
 
 The ALMA telescope archive
 https://almascience.nrao.edu/aq/ 
+
+### Exo-planets
+
+Encyclopaedia of exoplanetary systems (catalogue data of detected exoplanets)
+https://exoplanet.eu/home/
+
