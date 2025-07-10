@@ -32,13 +32,20 @@ https://www.gnu.org/savannah-checkouts/gnu/gnuastro/gnuastro.html
 Source-Extractor - image analysis tool 
 https://sextractor.readthedocs.io/en/latest/Introduction.html
 
+ESAC Science Data Centre
+https://www.cosmos.esa.int/web/esdc# 
+
 ## Astronomical data
 ### Multi wavelength data
 
-Skyview: https://skyview.gsfc.nasa.gov/current/cgi/titlepage.pl  
+Skyview 
+https://skyview.gsfc.nasa.gov/current/cgi/titlepage.pl  
 
 Strasbourg astronomical Data Center (CDS) - Catalogues and Images
 https://cds.unistra.fr 
+
+MAST: Barbara A. Mikulski Archive for Space Telescopes 
+https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html 
 
 ### Optical data
 
@@ -51,8 +58,14 @@ http://ps1images.stsci.edu/cgi-bin/ps1cutouts
 Legacy Survey (Southern Sky) is one of the best options
 https://www.legacysurvey.org/viewer#NGC%201325 
 
+Hubble Legacy Archive 
+https://hla.stsci.edu
 
-### neutral Hydrogen data
+The Sloan Digital Sky Survey (SDSS):
+https://www.sdss.org 
+
+
+### Neutral Hydrogen (HI) data
 
 The GASS survey (HI data in the Milky Way)
 https://www.astro.uni-bonn.de/hisurvey/gass/  
@@ -62,3 +75,11 @@ https://www.astron.nl/halogas/data.php
 
 VLA Imaging of Virgo in Atomic gas (VIVA, HI data for Virgo cluster galaxies)
 http://www.astro.yale.edu/viva/ 
+
+The THINGS survey (nearby galaxies)
+https://www2.mpia-hd.mpg.de/THINGS/Overview.html
+
+### Millimeter data:
+
+The ALMA telescope archive
+https://almascience.nrao.edu/aq/ 
