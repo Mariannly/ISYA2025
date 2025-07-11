@@ -13,7 +13,8 @@ An overview of galaxies in the nearby and distant universe, their constituents, 
   
 - Dark matter in galaxies
 
-##### Presentation: https://github.com/Astronomia-Ecuador/ISYA2025/blob/main/Galaxies/Galaxies1.pdf
+##### Presentation:
+https://drive.google.com/file/d/1DPVUNwhmj5mTWh8WpeeRFq9Cz_f69IkR/view?usp=drive_link
   
 #### Lecture 2) Scaling relations
 
@@ -24,6 +25,8 @@ An overview of galaxies in the nearby and distant universe, their constituents, 
 - Fundamental planes
 
 - Main sequence of star formation and Starbursts
+
+https://drive.google.com/file/d/1046rmHDDf0ilZyBG7iKPISdNQvpf6vM6/view?usp=drive_link
 
 #### Lecture 3) Active Galactic Nuclei
 
@@ -40,6 +43,8 @@ An overview of galaxies in the nearby and distant universe, their constituents, 
 - Demographics of QSOs and BHs 
 
 - Feedback
+
+https://drive.google.com/file/d/1xPBJQOiTCkMl7GTI-Um0PLnwS5upkPIH/view?usp=drive_link
   
 #### Lecture 4) Galaxies through cosmic time
 
