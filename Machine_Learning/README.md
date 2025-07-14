@@ -21,9 +21,9 @@ based inference). The course will include practical exercises in the form of Jup
 
 - Lab: Classification of galaxy images with CNNs.
 
-Code: https://colab.research.google.com/drive/1B1nJg3Kk9PmmPn35kbvM5i2MTGQ3XTBZ?usp=sharing
+#### Code: https://colab.research.google.com/drive/1B1nJg3Kk9PmmPn35kbvM5i2MTGQ3XTBZ?usp=sharing
 
-Data: https://drive.google.com/file/d/1jupuQxIY-zq6hz-3lcD_JpVisvPzHVS8/view
+#### Data: https://drive.google.com/file/d/1jupuQxIY-zq6hz-3lcD_JpVisvPzHVS8/view
 
 #### Lecture 2) Evaluation Metrics in Machine Learning
 
