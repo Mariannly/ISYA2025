@@ -14,6 +14,8 @@ Compact objects are the end stage of the evolution of high-mass stars. Their ext
 
 - The importance of knowing mass and radius of neutron stars
 
+#### Notes Lecture 1: https://github.com/Astronomia-Ecuador/ISYA2025/blob/main/Compact_Objects/Neutron_Stars_1.pdf
+
 
 #### Lecture 2) Neutron stars (2)
 
@@ -23,6 +25,7 @@ Compact objects are the end stage of the evolution of high-mass stars. Their ext
 
 - Dimensionless tidal deformability and mergers
 
+#### Notes Lecture 2: https://github.com/Astronomia-Ecuador/ISYA2025/blob/main/Compact_Objects/Neutron_Stars_2.pdf
 
 #### Lecture 3) Neutron stars (3)
 
@@ -34,6 +37,8 @@ Compact objects are the end stage of the evolution of high-mass stars. Their ext
 
 - Hadron-quark phase transition? Hybrid stars
   
+#### Notes Lecture 3: https://github.com/Astronomia-Ecuador/ISYA2025/blob/main/Compact_Objects/Neutron_Stars_3.pdf
+
 
 #### Lecture 4) Neutron stars (4)
 
