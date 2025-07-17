@@ -67,3 +67,5 @@ Compact objects are the end stage of the evolution of high-mass stars. Their ext
 - Gravitational collapse and black hole formation
   
 - Geodesics around a black hole: basic aspects of accretion disks
+
+#### Lecture Notes 5: https://github.com/wbandabarragan/ISYA2025/blob/main/Compact_Objects/Black_Holes_1.pdf
