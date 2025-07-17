@@ -20,7 +20,7 @@ Integral field spectroscopy has revolutionized our ability to study galaxies by 
 Matter in the Universe is not randomly distributed: it forms a vast, interconnected network of nodes, filaments, walls, and voids known as the cosmic web. While the dense nodes have been extensively studied, cosmic filaments, elongated structures bridging these regions, remain less well understood, despite likely containing more than half of the matter in the Universe today.
 In this talk, I will focus on the physical properties of cosmic filaments at z=0 using state-of-the-art hydrodynamical simulations, and explore their evolution back to z=4. I will highlight the diversity of filament populations and show how these structures are crucial to solve the missing baryons problem in the late Universe. I will conclude with a brief outlook on how upcoming galaxy surveys will transform our ability to detect and understand these important structures.
 
-## Afternoon Session (17h00 - 18h30)::
+## Afternoon Session (17h00 - 18h30):
 
 ## 4. Stellar models with like-Wyman IIa complexity factor
 ### David Andrade (Universidad Yachay Tech, Ecuador)
