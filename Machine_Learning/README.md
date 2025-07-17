@@ -9,6 +9,18 @@ networks for supervised image classification), while at the same time introducin
 the latest developments in the field (e.g. self-supervised learning, transformers, simulation
 based inference). The course will include practical exercises in the form of Jupyter notebooks.
 
+#### Code:
+
+1. https://colab.research.google.com/drive/1B1nJg3Kk9PmmPn35kbvM5i2MTGQ3XTBZ?usp=sharing
+
+2. https://drive.google.com/file/d/1K3EFJGkiHUhFXrVZVF0uW7LP8chjgVW2/view?usp=sharing
+
+#### Data:
+
+1. https://drive.google.com/file/d/1jupuQxIY-zq6hz-3lcD_JpVisvPzHVS8/view
+
+2. https://drive.google.com/file/d/1Uctd_iUdDV-FedZR5yWojnE5lJnw5lFu/view?usp=sharing
+
 #### Lecture 1) Introduction to Machine Learning
 
 - Types of machine learning: supervised, unsupervised, self supervised.
@@ -21,9 +33,6 @@ based inference). The course will include practical exercises in the form of Jup
 
 - Lab: Classification of galaxy images with CNNs.
 
-#### Code: https://colab.research.google.com/drive/1B1nJg3Kk9PmmPn35kbvM5i2MTGQ3XTBZ?usp=sharing
-
-#### Data: https://drive.google.com/file/d/1jupuQxIY-zq6hz-3lcD_JpVisvPzHVS8/view
 
 #### Lecture 2) Evaluation Metrics in Machine Learning
 
